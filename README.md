@@ -13,10 +13,16 @@ In today’s digital world, having a professional website is essential for busin
 - Increases conversions
 
 ## Key Services
-- Custom Website Design
-- E-commerce Development
-- WordPress Development
-- SEO-Friendly Websites
+- Custom Website Design & Development
+- E-Commerce Website Development
+- CMS & WordPress Development
+- Web Application Development
+- Mobile App Development
+- Software & Custom Enterprise Solutions
+- Graphics, Branding & UI/UX Design
+- Website Redesign & Redevelopment
+- Integration of SEO and Digital Marketing
+- Web Hosting & Maintenance
 
 ## Learn More
 For a detailed explanation of web design and development services in Dubai, visit:
